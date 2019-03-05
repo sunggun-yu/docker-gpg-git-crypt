@@ -1,6 +1,6 @@
-# Docker gnupg and git-crypt
+# Docker gpg(GnuPG) and git-crypt
 
-Docker image with GnuPG and git-crypt for supporting git-crypt in the CI/CD pipeline.
+Docker image with gpg and git-crypt for supporting git-crypt in the CI/CD pipeline.
 
 ## Base Image
 
